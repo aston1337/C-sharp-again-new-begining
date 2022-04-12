@@ -29,7 +29,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
     Start 12.04.2022
     Troelsen c# 9.0
 
-day 1:No code just technical information. 1-26 pages done xD
+day 1:  No code just technical information. 1-26 pages done, started chapter_2
 
 day 2:
 
