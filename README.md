@@ -2,7 +2,7 @@
 
 The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
-1 chapter
+1 chapter - Finished
 
 2 chapter
 
