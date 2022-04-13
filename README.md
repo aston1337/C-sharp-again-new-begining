@@ -2,52 +2,52 @@
 
 The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
-1 chapter - ✅️
+1 chapter - ✅️ 1-26 pages at once
 
-2 chapter - ✅️
+2 chapter - ✅️ 27-49 pages at least half was skipped 
 
-3 chapter
+3 chapter - 
 
-4 chapter
+4 chapter - 
 
-5 chapter
+5 chapter - 
 
-6 chapter
+6 chapter - 
 
-7 chapter
+7 chapter - 
 
-8 chapter
+8 chapter - 
 
-9 chapter
+9 chapter - 
 
-10 chapter
+10 chapter - 
 
-11 chapter
+11 chapter - 
 
-12 chapter
+12 chapter - 
 
     Start 12.04.2022
     Troelsen c# 9.0
 
-day 1:  No code just technical information. 1-26 pages done, started chapter_2
+***day 1***:  No code just technical information. 1-26 pages done, started chapter_2
 
-day 2:  Chapter 2 was listed. All about VS but I use Rider. So it was booring. Forgot to commit day 2, Only now remembered. So the green day wont be marked, but I know that I did smth today
+***day 2***:  Chapter 2 was listed. All about VS but I use Rider. So it was booring. Forgot to commit day 2, Only now remembered. So the green day wont be marked, but I know that I did smth today
 
-day 3:
+***day 3***:
 
-day 4:
+***day 4***:
 
-day 5:
+***day 5***:
 
-day 6:
+***day 6***:
 
-day 7:
+***day 7***:
 
-day 8:
+***day 8***:
 
-day 9:
+***day 9***:
 
-day 10:
+***day 10***:
 
 day 11:
 
