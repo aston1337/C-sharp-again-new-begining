@@ -4,7 +4,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 1 chapter - ✅️
 
-2 chapter - 
+2 chapter - ✅️
 
 3 chapter
 
@@ -31,7 +31,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 day 1:  No code just technical information. 1-26 pages done, started chapter_2
 
-day 2:
+day 2:  Chapter 2 was listed. All about VS but I use Rider. So it was booring. Forgot to commit day 2, Only now remembered. So the green day wont be marked, but I know that I did smth today
 
 day 3:
 
