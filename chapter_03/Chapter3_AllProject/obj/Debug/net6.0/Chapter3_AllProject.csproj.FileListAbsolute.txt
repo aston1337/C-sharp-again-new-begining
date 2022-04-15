@@ -1,0 +1,15 @@
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\bin\Debug\net6.0\Chapter3_AllProject.exe
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\bin\Debug\net6.0\Chapter3_AllProject.deps.json
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\bin\Debug\net6.0\Chapter3_AllProject.runtimeconfig.json
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\bin\Debug\net6.0\Chapter3_AllProject.dll
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\bin\Debug\net6.0\ref\Chapter3_AllProject.dll
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\bin\Debug\net6.0\Chapter3_AllProject.pdb
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.csproj.AssemblyReference.cache
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.AssemblyInfoInputs.cache
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.AssemblyInfo.cs
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.csproj.CoreCompileInputs.cache
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.dll
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\ref\Chapter3_AllProject.dll
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.pdb
+D:\Repos\C-sharp-again-new-begining\chapter_03\Chapter3_AllProject\obj\Debug\net6.0\Chapter3_AllProject.genruntimeconfig.cache

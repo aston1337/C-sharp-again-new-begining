@@ -1,12 +1,21 @@
 ﻿using System;
 
 namespace Chapter_3 {
-    class ConsoleProgramm {
+    class MainStructures {
         public static void Main(string[] args) {
             Console.WriteLine("*******My First C# programm*******");
             Console.WriteLine();
+            //if we have args we can loop them
+            for (int i = 0; i < args.Length; i++) {
+                Console.WriteLine(args[i]);
+            }
+            string[] theArgs = Environment.GetCommandLineArgs();
+            Console.WriteLine(theArgs[1]);
+            //call 
+            EnvironmentData.getEnvironmentData();
+            ConsoleClass.getUserData();
         }
-        //variations of main
+        /*//variations of main
         // int return type, array of strings as the parameter.
         static int Main(string[ ] args) {
             return 0;
@@ -23,6 +32,6 @@ namespace Chapter_3 {
         static Task Main()
         static Task<int> Main()
         static Task Main(string[])
-        static Task<int> Main(string[])
+        static Task<int> Main(string[])*/
     }
 }
