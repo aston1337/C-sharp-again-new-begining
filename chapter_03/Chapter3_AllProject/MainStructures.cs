@@ -13,7 +13,7 @@ namespace Chapter_3 {
             Console.WriteLine(theArgs[1]);
             //call 
             EnvironmentData.getEnvironmentData();
-            ConsoleClass.getUserData();
+            //ConsoleClass.getUserData();
             VariableDeclaration.LocalVarDeclaration();
             DefaultLiteral.defaultDeclarations();
         }
