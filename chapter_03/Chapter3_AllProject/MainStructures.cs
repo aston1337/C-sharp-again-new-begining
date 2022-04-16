@@ -14,6 +14,8 @@ namespace Chapter_3 {
             //call 
             EnvironmentData.getEnvironmentData();
             ConsoleClass.getUserData();
+            VariableDeclaration.LocalVarDeclaration();
+            DefaultLiteral.defaultDeclarations();
         }
         /*//variations of main
         // int return type, array of strings as the parameter.
