@@ -6,7 +6,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 2 chapter - ✅️ 27-49 pages at least half was skipped, not using VS
 
-3 chapter - 🆚    50-56 pages, 57-64 of 109
+3 chapter - 🆚    50-56 pages, 57-64, 65-69 of 109
 
 4 chapter - 
 
@@ -37,7 +37,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 4***:  Get familiar with console and environment. The day is not over yet
 
-***day 5***:
+***day 5***:  Have read not too much. But wrote some code
 
 ***day 6***:
 
