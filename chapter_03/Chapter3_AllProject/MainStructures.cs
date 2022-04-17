@@ -12,10 +12,11 @@ namespace Chapter_3 {
             string[] theArgs = Environment.GetCommandLineArgs();
             Console.WriteLine(theArgs[1]);
             //call 
-            EnvironmentData.getEnvironmentData();
+            //EnvironmentData.getEnvironmentData();
             //ConsoleClass.getUserData();
-            VariableDeclaration.LocalVarDeclaration();
-            DefaultLiteral.defaultDeclarations();
+            //VariableDeclaration.LocalVarDeclaration();
+            //DefaultLiteral.defaultDeclarations();
+            DataTypes.voidNumericalDataTypes();
         }
         /*//variations of main
         // int return type, array of strings as the parameter.
