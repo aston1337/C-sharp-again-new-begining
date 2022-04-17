@@ -16,7 +16,8 @@ namespace Chapter_3 {
             //ConsoleClass.getUserData();
             //VariableDeclaration.LocalVarDeclaration();
             //DefaultLiteral.defaultDeclarations();
-            DataTypes.voidNumericalDataTypes();
+            //DataTypes.voidNumericalDataTypes();
+            StringDataType.stringFunctions();
         }
         /*//variations of main
         // int return type, array of strings as the parameter.
