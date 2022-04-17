@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace Chapter_3 {
     public class DataTypes {
@@ -7,6 +8,7 @@ namespace Chapter_3 {
             parseValues();
             tryParseFromStringData();
             dateTimeAndTimeSpan();
+            separators();
         }
 
         public static void charTypeFunctionality() {
@@ -56,6 +58,23 @@ namespace Chapter_3 {
             Console.WriteLine(t);
 
             Console.WriteLine(t.Subtract(new TimeSpan(0, 15, 0)));
+        }
+
+        public static void separators() {
+            Console.WriteLine("=> Use Digit Separators:");
+            Console.Write("Integer:");
+            Console.WriteLine(123_456);
+            Console.Write("Long:");
+            Console.WriteLine(123_456_789L);
+            Console.Write("Float:");
+            Console.WriteLine(123_456.1234F);
+            Console.Write("Double:");
+            Console.WriteLine(123_456.12);
+            Console.Write("Decimal:");
+            Console.WriteLine(123_456.12M);
+                //Updated in 7.2, Hex can begin with _
+            Console.Write("Hex:");
+            Console.WriteLine(0x_00_00_FF);
         }
     }
 }
