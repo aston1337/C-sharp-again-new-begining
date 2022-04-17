@@ -6,6 +6,7 @@ namespace Chapter_3 {
             charTypeFunctionality();
             parseValues();
             tryParseFromStringData();
+            dateTimeAndTimeSpan();
         }
 
         public static void charTypeFunctionality() {
@@ -42,6 +43,19 @@ namespace Chapter_3 {
             } else {
                 Console.WriteLine($"Failed to convert the input ({value}) to a double and the variable was assigned the default value {d}");
             }
+        }
+
+        public static void dateTimeAndTimeSpan() {
+            Console.WriteLine("dates and times----------------------");
+            DateTime dt = new DateTime(2015, 10, 17);
+            Console.WriteLine($"The year is {dt.Year} and day id {dt.Day} of {dt.Month}");
+            dt = dt.AddMonths(2);
+            Console.WriteLine($"{dt.IsDaylightSavingTime()}");
+
+            TimeSpan t = new TimeSpan(4, 30, 23);
+            Console.WriteLine(t);
+
+            Console.WriteLine(t.Subtract(new TimeSpan(0, 15, 0)));
         }
     }
 }
