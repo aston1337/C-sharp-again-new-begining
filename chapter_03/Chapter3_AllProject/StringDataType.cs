@@ -22,6 +22,8 @@ namespace Chapter_3 {
             basicStringFunctionality();
             concatenation();
             escapeCharacters();
+            stringEquality();
+            stringsAreImmutable();
         }
         public static void basicStringFunctionality() {
             Console.WriteLine("BasicStringFunctionality -----------------------------");
@@ -60,6 +62,25 @@ network paths.
             // Adds a total of 4 blank lines (then beep again!).
             Console.WriteLine("All finished.\n\n\n\a ");
             Console.WriteLine();
+        }
+
+        public static void stringEquality() {
+            Console.WriteLine("stringEquality-------------------");
+            string s1 = "Hello!";
+            string s2 = "Yo!";
+            Console.WriteLine($"s1 = {s1}");
+            Console.WriteLine($"s2 = {s2}");
+            Console.WriteLine();
+            // Test these strings for equality.
+            Console.WriteLine($"s1 == s2: {s1 == s2}");
+            Console.WriteLine($"s1 == Hello!: {s1 == "Hello!"}");
+            Console.WriteLine($"s1 == HELLO!: {s1 == "HELLO!"}"); //Case sensitive
+            Console.WriteLine($"s1.Equals(s2): {s1.Equals(s2)}");
+            Console.WriteLine($"Yo!.Equals(s2): {s2.Equals("Yo!")}");
+        }
+
+        public static void stringsAreImmutable() {
+            Console.WriteLine("stringsAreImmutable-----------------------");
         }
         
     }
