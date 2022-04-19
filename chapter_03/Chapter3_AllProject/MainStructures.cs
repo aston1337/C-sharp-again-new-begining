@@ -17,7 +17,8 @@ namespace Chapter_3 {
             //VariableDeclaration.LocalVarDeclaration();
             //DefaultLiteral.defaultDeclarations();
             //DataTypes.voidNumericalDataTypes();
-            StringDataType.stringFunctions();
+            //StringDataType.stringFunctions();
+            NarrowingAndWidening.checkedUnchecked();
         }
         /*//variations of main
         // int return type, array of strings as the parameter.
