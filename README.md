@@ -44,39 +44,39 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 8***:  Read about type conversion. Narrowing and Widening
 
-***day 9***:
+***day 9***:  
 
-***day 10***:
+***day 10***: 
 
-day 11:
+***day 11***:
 
-day 12:
+***day 12***:
 
-day 13:
+***day 13***:
 
-day 14:
+***day 14***:
 
-day 15:
+***day 15***:
 
-day 16:
+***day 16***:
 
-day 17:
+***day 17***:
 
-day 18:
+***day 18***:
 
-day 19:
+***day 19***:
 
-day 20:
+***day 20***:
 
-day 21:
+***day 21***:
 
-day 22:
+***day 22***:
 
-day 23:
+***day 23***:
 
-day 24:
+***day 24***:
 
-day 25:
+***day 25***:
 
 day 26:
 

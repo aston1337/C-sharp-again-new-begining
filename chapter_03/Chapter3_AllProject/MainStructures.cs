@@ -18,7 +18,8 @@ namespace Chapter_3 {
             //DefaultLiteral.defaultDeclarations();
             //DataTypes.voidNumericalDataTypes();
             //StringDataType.stringFunctions();
-            NarrowingAndWidening.checkedUnchecked();
+            //NarrowingAndWidening.checkedUnchecked();
+            Loops.iterationsAndDecisions();
         }
         /*//variations of main
         // int return type, array of strings as the parameter.
