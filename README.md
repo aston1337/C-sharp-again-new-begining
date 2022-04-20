@@ -40,10 +40,9 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 6***:  Get to know about strings. But not all 
 
-***day 7***:  Too much work? had no time to read. Did a liitle bit of coding never the less
+***day 7***:  Too much work... had no time to read. Did a liitle bit of coding never the less
 
-***day 8***:  
-
+***day 8***:  Read about type conversion. Narrowing and Widening
 
 ***day 9***:
 
