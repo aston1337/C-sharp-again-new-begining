@@ -20,6 +20,7 @@ namespace Chapter_3 {
             //StringDataType.stringFunctions();
             //NarrowingAndWidening.checkedUnchecked();
             Loops.iterationsAndDecisions();
+            IfElse.ifElseStatment();
         }
         /*//variations of main
         // int return type, array of strings as the parameter.
