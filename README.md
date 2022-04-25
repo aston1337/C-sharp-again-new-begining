@@ -55,7 +55,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 13***: Too much work. Breaking my streak on 100DaysOfCode
 
-***day 14***: 
+***day 14***: Today I started at last Arrays.
 
 ***day 15***:
 
