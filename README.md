@@ -1,5 +1,6 @@
 
 The goal to read 12 chapters in 100 days. Also goal is to commit everyday
+491 pages total / 383 left
 
 1 chapter - ✅️ 1-26 pages at once
 
@@ -7,7 +8,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 3 chapter - ✅    50-56 pages, 57-64, 65-69, 70-82 83-84, 85 - 88, 89-96, 97-109 of 109
 
-4 chapter - 🆚
+4 chapter - 🆚    
 
 5 chapter - 
 
@@ -46,15 +47,15 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 9***:  Learned loops. not too much new information
 
-***day 10***: 
+***day 10***: Actualize knowledge about conditionals IF ELSE
 
-***day 11***:
+***day 11***: 3 chapters left. Now is The hardest part. I stopped at 4th chapter previously. This would be my short distance goal
 
-***day 12***:
+***day 12***: Lazy day! Read some technical information on .NET
 
-***day 13***:
+***day 13***: Too much work. Breaking my streak on 100DaysOfCode
 
-***day 14***:
+***day 14***: 
 
 ***day 15***:
 
@@ -64,7 +65,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 18***:
 
-***day 19***:
+***day 19***: 30.04 The GREAT SUMMARY of the month!!!
 
 ***day 20***:
 
