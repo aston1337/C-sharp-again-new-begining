@@ -19,8 +19,8 @@ namespace Chapter_3 {
             //DataTypes.voidNumericalDataTypes();
             //StringDataType.stringFunctions();
             //NarrowingAndWidening.checkedUnchecked();
-            Loops.iterationsAndDecisions();
-            IfElse.ifElseStatment();
+            //Loops.iterationsAndDecisions();
+            //IfElse.ifElseStatment();
         }
         /*//variations of main
         // int return type, array of strings as the parameter.
