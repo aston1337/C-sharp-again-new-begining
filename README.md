@@ -57,11 +57,11 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 14***: Today I started at last Arrays.
 
-***day 15***:
+***day 15***: ---
 
-***day 16***:
+***day 16***: ---
 
-***day 17***:
+***day 17***: I have missed two days... unacceptable. Will Try not to repeat.
 
 ***day 18***:
 
@@ -127,7 +127,7 @@ day 48:
 
 day 49:
 
-day 50:
+day 50: 31.05 the GREAT SUMMARY of the month
 
 day 51:
 
