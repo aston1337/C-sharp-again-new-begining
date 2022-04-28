@@ -4,6 +4,7 @@ namespace chapter_04 {
     public class MultiDimensionalArrays {
         public static void callArrays() {
             rectangularArray();
+            JaggedMultidimensionalArray();
         }
 
         public static void rectangularArray() {
@@ -24,7 +25,19 @@ namespace chapter_04 {
         }
 
         public static void JaggedMultidimensionalArray() {
-            
+            Console.WriteLine("JaggedMultidimensionalArray-------------------------");
+            int[][] mdArray = new int[5][];
+
+            for (int i = 0; i < mdArray.Length; i++) {
+                mdArray[i] = new int[i + 7];
+            }
+
+            for (int i = 0; i < 5; i++) {
+                for (int j = 0; j < mdArray[i].Length; j++) {
+                    Console.Write(mdArray[i][j]);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
