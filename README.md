@@ -8,7 +8,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 3 chapter - ✅    50-56 pages, 57-64, 65-69, 70-82 83-84, 85 - 88, 89-96, 97-109 of 109
 
-4 chapter - 🆚    
+4 chapter - 🆚    109-119 of 167
 
 5 chapter - 
 
@@ -61,7 +61,7 @@ The goal to read 12 chapters in 100 days. Also goal is to commit everyday
 
 ***day 16***: ---
 
-***day 17***: I have missed two days... unacceptable. Will Try not to repeat.
+***day 17***: I have missed two days... unacceptable. Will Try not to repeat.Finished Arrays topic. Not too hard exept Jagged array
 
 ***day 18***:
 
@@ -85,7 +85,7 @@ day 27:
 
 day 28:
 
-day 29:
+day 29: 10.5
 
 day 30:
 
@@ -105,7 +105,7 @@ day 37:
 
 day 38:
 
-day 39:
+day 39: 20.05
 
 day 40:
 
@@ -147,7 +147,7 @@ day 58:
 
 day 59:
 
-day 60:
+day 60: 10.06
 
 day 61:
 
@@ -167,7 +167,7 @@ day 68:
 
 day 69:
 
-day 70:
+day 70: 20.06
 
 day 71:
 
@@ -189,7 +189,7 @@ day 79:
 
 day 80:
 
-day 81:
+day 81: 31.06 The GREAT SUMMARY of the month!!!
 
 day 82:
 
