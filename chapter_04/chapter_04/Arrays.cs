@@ -42,6 +42,7 @@ namespace chapter_04 {
         }
 
         public static void arrayOfObjects() { // System.Object base class to every prototype
+            Console.WriteLine("arrayOfObjects---------------------");
             object[] obj = new Object[5];
             obj[0] = "Hello";
             obj[1] = true;
