@@ -1,0 +1,15 @@
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.csproj.AssemblyReference.cache
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.AssemblyInfoInputs.cache
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.AssemblyInfo.cs
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.csproj.CoreCompileInputs.cache
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\bin\Debug\net6.0\chapter_04.exe
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\bin\Debug\net6.0\chapter_04.deps.json
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\bin\Debug\net6.0\chapter_04.runtimeconfig.json
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\bin\Debug\net6.0\chapter_04.dll
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\bin\Debug\net6.0\chapter_04.pdb
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.dll
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\refint\chapter_04.dll
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.pdb
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\chapter_04.genruntimeconfig.cache
+D:\Repos\C-sharp-again-new-begining\chapter_04\chapter_04\obj\Debug\net6.0\ref\chapter_04.dll
