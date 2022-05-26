@@ -5,6 +5,7 @@ namespace chapter_04 {
         public static void arraysAsArgsAndReturnValues() {
             int[] myInts = new[] { 1, 4, 5, 6, 2, 3, 6 };
             printArray(myInts);
+            getStringArray();
         }
 
         public static void printArray(int[] myInts) {
