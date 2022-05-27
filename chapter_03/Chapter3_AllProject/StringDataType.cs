@@ -1,20 +1,20 @@
 ﻿using System;
 /*
-Length This property returns the length of the current string.
-Compare() This static method compares two strings.
-Contains() This method determines whether a string contains a specific substring.
-Equals() This method tests whether two string objects contain identical character data.
-Format() This static method formats a string using other primitives (e.g., numerical data, other
-strings) and the {0} notation examined earlier in this chapter.
-Insert() This method inserts a string within a given string.
-PadLeft() PadRight() These methods are used to pad a string with some characters.
-Remove() Replace() These methods are used to receive a copy of a string with modifications (characters
-removed or replaced).
-Split() This method returns a String array containing the substrings in this instance that are
-delimited by elements of a specified char array or string array.
-Trim() This method removes all occurrences of a set of specified characters from the
-beginning and end of the current string.
-ToUpper() ToLower() These methods create a copy of the current string in uppercase or lowercase format, respectively.
+Length      This property returns the length of the current string.
+Compare()   This static method compares two strings.
+Contains()  This method determines whether a string contains a specific substring.
+Equals()    This method tests whether two string objects contain identical character data.
+Format()    This static method formats a string using other primitives (e.g., numerical data, other
+            strings) and the {0} notation examined earlier in this chapter.
+Insert()                This method inserts a string within a given string.
+PadLeft() PadRight()    These methods are used to pad a string with some characters.
+Remove() Replace()      These methods are used to receive a copy of a string with modifications (characters
+                        removed or replaced).
+Split()     This method returns a String array containing the substrings in this instance that are
+            delimited by elements of a specified char array or string array.
+Trim()      This method removes all occurrences of a set of specified characters from the
+            beginning and end of the current string.
+ToUpper() ToLower()     These methods create a copy of the current string in uppercase or lowercase format, respectively.
  */
 namespace Chapter_3 {
     public class StringDataType {
@@ -74,7 +74,7 @@ network paths.
             // Test these strings for equality.
             Console.WriteLine($"s1 == s2: {s1 == s2}");
             Console.WriteLine($"s1 == Hello!: {s1 == "Hello!"}");
-            Console.WriteLine($"s1 == HELLO!: {s1 == "HELLO!"}"); //Case sensitive
+            Console.WriteLine($"s1 != HELLO!: {s1 != "HELLO!"}"); //Case sensitive
             Console.WriteLine($"s1.Equals(s2): {s1.Equals(s2)}");
             Console.WriteLine($"Yo!.Equals(s2): {s2.Equals("Yo!")}");
         }

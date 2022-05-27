@@ -14,9 +14,9 @@ namespace Chapter_3 {
             //call 
             //EnvironmentData.getEnvironmentData();
             //ConsoleClass.getUserData();
-            VariableDeclaration.LocalVarDeclaration();
+            //VariableDeclaration.LocalVarDeclaration();
             //DefaultLiteral.defaultDeclarations();
-            //DataTypes.voidNumericalDataTypes();
+            DataTypes.voidNumericalDataTypes();
             //StringDataType.stringFunctions();
             //NarrowingAndWidening.checkedUnchecked();
             //Loops.iterationsAndDecisions();

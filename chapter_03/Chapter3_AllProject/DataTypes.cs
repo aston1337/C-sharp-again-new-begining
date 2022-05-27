@@ -39,7 +39,7 @@ namespace Chapter_3 {
                 Console.WriteLine($"Default value of b: {b}");
             }
 
-            string value = "21";
+            string value = "qwe";
             if (double.TryParse(value, out double d)) {
                 Console.WriteLine($"Value of d: {d}");
             } else {
