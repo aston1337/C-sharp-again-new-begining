@@ -16,10 +16,10 @@ namespace Chapter_3 {
             //ConsoleClass.getUserData();
             //VariableDeclaration.LocalVarDeclaration();
             //DefaultLiteral.defaultDeclarations();
-            DataTypes.voidNumericalDataTypes();
+            //DataTypes.voidNumericalDataTypes();
             //StringDataType.stringFunctions();
             //NarrowingAndWidening.checkedUnchecked();
-            //Loops.iterationsAndDecisions();
+            Loops.iterationsAndDecisions();
             //IfElse.ifElseStatment();
         }
     /*

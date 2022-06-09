@@ -13,9 +13,7 @@
                     your custom types (see Chapters 8 and 10).  
         */   
         public static void Main(string[] args) {
-            //Arrays.funWithArrays();
-            //MultiDimensionalArrays.callArrays();
-            //ArraysAsArgsAndReturnValues.arraysAsArgsAndReturnValues();
+           
         }
     }
 }
