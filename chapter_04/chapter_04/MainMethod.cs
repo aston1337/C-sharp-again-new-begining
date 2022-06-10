@@ -13,7 +13,8 @@
                     your custom types (see Chapters 8 and 10).  
         */   
         public static void Main(string[] args) {
-               UnderstandingArrays.arrMethods();
+               //UnderstandingArrays.arrMethods();
+               Methods.runMethods();
         }
     }
 }
