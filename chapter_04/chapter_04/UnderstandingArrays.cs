@@ -1,7 +1,18 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
 namespace chapter_04;
-
+/*
+Clear()     This static method sets a range of elements in the array to empty values (0 for
+            numbers, null for object references, false for Booleans).
+CopyTo()    This method is used to copy elements from the source array into the destination
+array.
+Length      This property returns the number of items within the array.
+Rank        This property returns the number of dimensions of the current array.
+Reverse()   This static method reverses the contents of a one-dimensional array.
+Sort()      This static method sorts a one-dimensional array of intrinsic types. If the
+            elements in the array implement the IComparer interface, you can also sort
+            your custom types (see Chapters 8 and 10).
+*/
 public class UnderstandingArrays {
     public static void arrMethods() {
         SimpleArrays();
@@ -10,7 +21,19 @@ public class UnderstandingArrays {
         arrayOfObjects();
         rectMultidimensionalArray();
         jaggedMultidimensionalArray();
-        printArray();
+        
+        Console.WriteLine( "-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_" );
+        Console.WriteLine( "array as parametr" );
+        int[] arr = {3,5,6,7,10}; // array as parametr
+        printArray(arr);
+        Console.WriteLine(  );
+        Console.WriteLine( "Get array as return value" );
+        string[] str = getStringArr(); //Get array as return value
+        foreach ( string s in str ) {
+            Console.WriteLine( s );
+        }
+        Console.WriteLine( "-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_" );
+        systemArrayFunctionality();
     }
 
     public static void SimpleArrays() {
@@ -109,4 +132,28 @@ public class UnderstandingArrays {
         string[] theStrings = { "Hello", "from", "Belarus" };
         return theStrings;
     }
+
+    public static void systemArrayFunctionality() {
+        Console.WriteLine( "Working with System.Array------------------------" );
+        string[] gothicBands = { "Tones of tail", "Bauhause", "Sisters of mercy" };
+
+        for ( int i = 0; i < gothicBands.Length; i++ ) {
+            Console.Write( gothicBands[i] + ", " );
+        }
+        Console.WriteLine( "\n" );
+        
+        //reverse
+        Array.Reverse(gothicBands);
+        for ( int i = 0; i < gothicBands.Length; i++ ) {
+            Console.Write( gothicBands[i] + ", " );
+        }
+        Console.WriteLine( "\n" );
+        
+        Array.Clear(gothicBands, 1,2 );
+        for ( int i = 0; i < gothicBands.Length; i++ ) {
+            Console.Write( gothicBands[i] + ", " );
+        }
+    }
+    
+    
 }
