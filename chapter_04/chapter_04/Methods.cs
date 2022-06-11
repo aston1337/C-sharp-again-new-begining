@@ -22,6 +22,8 @@ params      This parameter modifier allows you to send in a variable number of a
     class Methods {
         public static void runMethods() {
             addWrapper( 3, 4 );
+            AddByValueTypes( 8, 6 );
+            AddUsingOutParam(90, 90, out int sum);
         }
 
         static int addWrapper( int x, int y ) {
@@ -48,8 +50,21 @@ params      This parameter modifier allows you to send in a variable number of a
                 return x + y;
             }
         }
-        
-        
+
+        static int AddByValueTypes(int x, int y) {  // x y - copy of original data
+            //default behavier for value types
+            int ans = x = y;
+            // Caller will not see these changes
+            // as you are modifying a copy of the
+            // original data.
+            x = 10000;
+            y = 888888;
+            return ans; //
+        }
+
+        static void AddUsingOutParam(int x, int y, out int sum) {
+            sum = x + y;
+        }
     }
 
 }
